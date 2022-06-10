@@ -4,7 +4,7 @@
 
 A simple webapp that can be used by a customer to place an order at a restaurant is                            
 developed. 
-Front-End of the app should contains two separate tabs for vegetarian and nonvegetarian
+Front-End of the app contains two separate tabs for vegetarian and nonvegetarian
 dishes (10 each). 
 Customers are able to select one or multiple dishes (multiple numbers a dish as well) and place orders. 
 Customers get a confirmation dialog box with selected dishes and number of items before placing the order. 
