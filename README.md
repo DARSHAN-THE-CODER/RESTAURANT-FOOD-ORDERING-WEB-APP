@@ -1,6 +1,8 @@
 # RESTAURANT-FOOD-ORDERING-WEB-APP
 
  CHECK [LIVE WEBSITE](https://restaurantfoodorder.herokuapp.com/)
+ 
+ Note : username : testing , password : 1234 .
 
 A simple webapp that can be used by a customer to place an order at a restaurant is                            
 developed. 
