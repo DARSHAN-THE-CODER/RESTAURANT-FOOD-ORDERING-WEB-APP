@@ -7,4 +7,5 @@ echo "${CYAN} ===> Installing backend dependencies${NC}"
 cd backend && cp .env.example .env && npm i
 cd ..
 yarn add -D concurrently
+echo "${CYAN} Starting Client and Server 🚀 ${NC}"
 yarn start
