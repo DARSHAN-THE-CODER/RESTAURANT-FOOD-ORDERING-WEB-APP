@@ -5,7 +5,10 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "start:frontend": "yarn dev --host",
+    "start:backend": "cd backend && node index.js",
+    "start": "concurrently \"npm run start:frontend\" \"npm run start:backend\""
   },
   "dependencies": {
     "@emotion/react": "^11.9.0",
