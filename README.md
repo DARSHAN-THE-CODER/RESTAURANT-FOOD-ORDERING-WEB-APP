@@ -1,6 +1,12 @@
 # RESTAURANT-FOOD-ORDERING-WEB-APP
 
  CHECK [LIVE WEBSITE](https://restaurantfoodorder.herokuapp.com/)
+
+```
+ $ git clone https://github.com/DARSHAN-THE-CODER/RESTAURANT-FOOD-ORDERING-WEB-APP
+ $ sh run.sh
+```
+
  
  Note : username : testing , password : 1234 .
 
